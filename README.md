@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Alba</h1>
 <h3 align="center">I'm an enthusiastic Junior full stack developer</h3>
 
-<p align="center"><img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen/></p>
+<p align="center"><img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen alt="Woman Coding GIF By Pluralsight"/>
+</p>
+
 
 
 - 🍄 I’m currently **working on my skills and learning more about web development**
