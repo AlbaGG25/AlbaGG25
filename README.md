@@ -8,6 +8,8 @@
 
 
 - 🍄 I’m currently **working on my skills and learning more about web development**
+  
+- 💻 I'm looking for **a new professional challenge**
 
 - 💬 Ask me about **React, Javascript, HTML, CSS, SQL y MongoDB**
 
