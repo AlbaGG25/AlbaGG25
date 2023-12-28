@@ -13,7 +13,9 @@
 
 - 💬 Ask me about **React, Javascript, HTML, CSS, SQL y MongoDB**
 
-- 🎨 In my free time I **love to paint and i'm learning about design to be able to contribute to a beautiful and complete user experience**
+- :books: I'm learning about **design to be able to contribute to a beautiful and complete user experience**
+
+- 🎨 In my free time I **love to paint and explore nature**
   
 
 <h3 align="center">Connect with me:</h3>
