@@ -7,15 +7,15 @@
 
 
 
-- 🍄 I’m currently **working on my skills and learning more about web development**
+ 🍄 I’m currently **working on my skills and learning more about web development**
   
-- 💻 I'm looking for **a new professional challenge**
+ 💻 I'm looking for **a new professional challenge**
 
-- 💬 Ask me about **React, Javascript, HTML, CSS, SQL and MongoDB**
+ 💬 Ask me about **React, Javascript, HTML, CSS, SQL and MongoDB**
 
-- :books: I'm learning about **design to be able to contribute to a beautiful and complete user experience**
+ :books: I'm learning about **design to be able to contribute to a beautiful and complete user experience**
 
-- 🎨 In my free time I **love to paint and explore nature**
+ 🎨 In my free time I **love to paint and explore nature**
   
 
 <h3 align="center">Connect with me:</h3>
