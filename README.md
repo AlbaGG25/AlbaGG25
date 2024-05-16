@@ -15,7 +15,7 @@
 
  :books: I'm learning about **design to be able to contribute to a beautiful and complete user experience**
 
- 🎨 In my free time I **love to paint and explore nature**
+ 🎨 In my free time I **love to paint, travel and explore nature**
   
 
 <h3 align="center">Connect with me:</h3>
