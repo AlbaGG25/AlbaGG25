@@ -20,7 +20,6 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center" style="margin:150px">
-<a href="https://twitter.com/developerdrm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="developerdrm" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/alba-gg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alba-gg" height="30" width="40" /></a>
 </p>
 
