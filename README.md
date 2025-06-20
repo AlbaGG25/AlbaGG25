@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, I'm Alba</h1>
-<h3 align="center">I'm a Full stack developer</h3>
+<h3 align="center">I'm a front end developer and UX designer</h3>
 
 <p align="center"><img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen alt="Woman Coding GIF By Pluralsight"/> 
 <a href="https://giphy.com/gifs/Pluralsight-computer-technology-coding-L1R1tvI9svkIWwpVYr"><small style="font-size:2px">*Woman Coding GIF By Pluralsight->GIPHY*</small></a>
